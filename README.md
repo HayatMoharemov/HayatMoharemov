@@ -1,7 +1,5 @@
 👋 Hi, I’m Hayat
 
-👀 In my free time i love to ride my motorcycle
-
 🌱 I’m currently learning Python
 
 <!---
