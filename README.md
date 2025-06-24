@@ -1,8 +1,8 @@
-👦:Hayat Moharemov:wave:
+👦:Hayat Moharemov :wave:
 
 📚:Python student 🐍
 
-🏍️: Biker:zap:
+🏍️: Biker :zap:
 
 
 
