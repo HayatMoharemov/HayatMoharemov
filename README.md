@@ -4,7 +4,7 @@
 
 🏍️: Biker
 
-🇧🇬 living in 🇩🇪
+From 🇧🇬 living in 🇩🇪
 
 
 
