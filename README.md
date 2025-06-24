@@ -1,8 +1,10 @@
-:boy: Hayat Moharemov
+👦:Hayat Moharemov
 
-:books: :snake:Python:snake: student
+📚:Python student 🐍
 
-:motorcycle: Biker
+🏍️: Biker
+
+🇧🇬 living in 🇩🇪
 
 
 
