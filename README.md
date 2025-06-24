@@ -1,10 +1,8 @@
-👦:Hayat Moharemov
+👦:Hayat Moharemov:wave:
 
 📚:Python student 🐍
 
-🏍️: Biker
-
-From 🇧🇬 living in 🇩🇪
+🏍️: Biker:zap:
 
 
 
