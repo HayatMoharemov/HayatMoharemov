@@ -1,6 +1,9 @@
-👋 Hi, I’m Hayat
+:boy: Hayat Moharemov
 
-🌱 I’m currently learning Python
+:books: :snake:Python:snake: student
+:motorcycle: Biker
+
+
 
 <!---
 HayatMoharemov/HayatMoharemov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
