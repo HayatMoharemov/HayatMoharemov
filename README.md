@@ -6,7 +6,6 @@
 I'm a motivated and detail-oriented developer currently completing professional training at **Software University (SoftUni)**.  
 I focus on **backend and web development**, mainly with Python, Django, and PostgreSQL.
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HayatMoharemov&layout=compact)
-
 ---
 
 - **Programming Languages:** Python, JavaScript
