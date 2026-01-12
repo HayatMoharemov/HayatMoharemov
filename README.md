@@ -8,7 +8,7 @@ I focus on **backend and web development**, mainly with Python, Django, and Post
 
 ---
 
-- **Programming Languages:** ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HayatMoharemov&layout=compact)
+- **Programming Languages:**![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HayatMoharemov&layout=compact)
 - **Web:** HTML, CSS, Django 
 - **Databases:** PostgreSQL  
 - **Tools:** PyCharm, VSCode, Docker, Git, pgAdmin 4, DataGrip 
