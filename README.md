@@ -8,10 +8,10 @@ I focus on **backend and web development**, mainly with Python, Django, and Post
 
 ---
 
-- **Programming Languages:** Python  
+- **Programming Languages:** Python, JavaScript  
 - **Web:** HTML, CSS, Django 
 - **Databases:** PostgreSQL  
-- **Tools:** PyCharm, Docker, Git, pgAdmin 4, DataGrip  
+- **Tools:** PyCharm, VSCode, Docker, Git, pgAdmin 4, DataGrip 
 - **Concepts:** OOP, CRUD, Data Modeling
 
 ---
