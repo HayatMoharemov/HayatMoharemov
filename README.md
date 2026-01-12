@@ -7,7 +7,7 @@ I'm a motivated and detail-oriented developer currently completing professional 
 I focus on **backend and web development**, mainly with Python, Django, and PostgreSQL.
 
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HayatMoharemov&layout=compact)
+              ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HayatMoharemov&layout=compact)
 
 
 ---
