@@ -38,7 +38,7 @@ I focus on **backend and web development**, mainly with Python, Django, and Post
 
 ### 📫 Contact
 📩 **Email:** h.moharemov@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/hayat-moharemov/)
+🔗**LinkedIn:**[Hayat Moharemov](https://www.linkedin.com/in/hayat-moharemov/)
 ---
 
 ### 🏍️ About me
