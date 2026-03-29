@@ -20,7 +20,8 @@ I focus on **backend and web development**, mainly with Python, Django, and Post
 
 ### 🎓 Education & Certificates
 - 📍 Software University (SoftUni)
-- ✅ Python Basics  
+- ✅ Python Basics
+- ✅ JavaScript Basics  
 - ✅ Python Fundamentals  
 - ✅ Python Advanced  
 - ✅ Python OOP  
@@ -31,7 +32,6 @@ I focus on **backend and web development**, mainly with Python, Django, and Post
 
 ### 📌 What I'm working on right now:
 - Building small web apps with Django
-- Improving my SQL and Data Structures knowledge
 - Preparing personal projects for portfolio
 
 ---
