@@ -26,7 +26,7 @@ I focus on **backend and web development**, mainly with Python, Django, and Post
 - ✅ Python Advanced  
 - ✅ Python OOP  
 - ✅ Python DB (PostgreSQL, Django ORM)  
-- 🔄 Currently: Python Web, JavaScript Front-End, DevOps
+- ✅ Python Web (Django, Django REST)
 
 ---
 
