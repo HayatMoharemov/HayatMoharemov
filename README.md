@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hayat Moharemov
 
 💻 **Junior Python Developer**  
-📍 Based in Frankfurt am Main, Germany
+📍 Based in Ruse, Bulgaria
 
 I'm a motivated and detail-oriented developer currently completing professional training at **Software University (SoftUni)**.  
 I focus on **backend and web development**, mainly with Python, Django, and PostgreSQL.
